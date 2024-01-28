@@ -8,4 +8,4 @@ da segunda, de 11 a 20, da terceira, de 21 a 30, da quarta, de 31 a 40 e da quin
 
 Durante o jogo, números são sorteados e ao verificar que um número sorteado está em sua cartela, o
 jogador deve marcá-lo. Ganha prêmios quem completar com números sorteados uma linha, uma
-coluna ou uma das diagonais. Veja alguns exemplos abaixo:
+coluna ou uma das diagonais.
